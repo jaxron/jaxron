@@ -32,7 +32,7 @@
       <a href="https://go.dev/">
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </a>
-      <a href="https://github.com/jaxron/zigache">
+      <a href="https://github.com/jaxron/axonet">
         <img src="https://img.shields.io/badge/-WIP-red?style=flat-square" alt="Work in Progress">
       </a>
     </td>
