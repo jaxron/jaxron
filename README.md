@@ -25,10 +25,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/jaxron/roapi.go">
-        <img src="assets/images/roapi-banner.png" alt="roapi.go Banner" width="300">
+      <a href="https://github.com/jaxron/axonet">
+        <img src="assets/images/axonet-banner.png" alt="axonet Banner" width="300">
       </a>
-      <p>A modular and beginner-friendly API wrapper for Roblox, built in Go. Offers fault tolerance, request deduplication, robust authentication, and more, ensuring seamless platform integration.</p>
+      <p>A custom HTTP client library for Go, offering middleware options for enhanced request handling. Features include circuit breaker, retry mechanism, rate limiting, and more.</p>
       <a href="https://go.dev/">
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </a>
@@ -36,5 +36,20 @@
         <img src="https://img.shields.io/badge/-WIP-red?style=flat-square" alt="Work in Progress">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jaxron/roapi.go">
+        <img src="assets/images/roapi-banner.png" alt="roapi.go Banner" width="300">
+      </a>
+      <p>A modular and beginner-friendly API wrapper for Roblox, built in Go. Uses axonet's features to ensure seamless platform integration.</p>
+      <a href="https://go.dev/">
+        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+      </a>
+      <a href="https://github.com/jaxron/roapi.go">
+        <img src="https://img.shields.io/badge/-WIP-red?style=flat-square" alt="Work in Progress">
+      </a>
+    </td>
+    <td></td>
   </tr>
 </table>
