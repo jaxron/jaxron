@@ -8,7 +8,39 @@
 
 ---
 
-## 🔭 Active Projects
+## 🔎 Rotector
+
+<table>
+  <tr>
+    <td align="center">
+      <h1 align="center">
+        <a href="https://github.com/rotector/rotector">
+          <picture>
+            <img width="350" alt="Rotector" src="./assets/images/rotector_logo.png">
+          </picture>
+        </a>
+      </h1>
+      <p>An AI-powered application designed to assist in identifying inappropriate user accounts on Roblox. Features include AI analysis, Discord review system, multi-threaded worker system, and detailed logging capabilities.</p>
+      <a href="https://go.dev/">
+        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+      </a>
+      <a href="https://github.com/rotector/rotector/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/-GPL%20v2-blue?style=flat-square" alt="GPL v2">
+      </a>
+      <a href="https://github.com/rotector/rotector">
+        <img src="https://img.shields.io/badge/-Alpha-red?style=flat-square" alt="Alpha">
+      </a>
+    </td>
+  </tr>
+</table>
+
+|                                                                                                                           Swift AI Assisted Moderation                                                                                                                            |                                                                                                                              In-Depth User Investigation                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <p align="center"><img src="assets/images/01.gif" width="450"></p><p align="center">Review flagged accounts quickly with AI assistance. This system provides profile overviews and AI-generated violation reasons, allowing moderators to make informed decisions in seconds.</p> | <p align="center"><img src="assets/images/02.gif" width="450"></p><p align="center">The review menu allows in-depth user investigation. Moderators can easily explore a user's outfits, friends, and groups, providing a detailed view for thorough and informed decision-making.</p> |
+
+<p align="center"><i>Discover more features on the <a href="https://github.com/rotector/rotector">Rotector GitHub page</a></i></p>
+
+## 🔭 Active Libraries
 
 <table>
   <tr>
@@ -53,3 +85,13 @@
     <td></td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <i>If you find my work helpful, consider buying me a coffee!</i>
+  <br><br>
+  <a href='https://ko-fi.com/K3K612AWHA'>
+    <img src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png' height='50'>
+  </a>
+</p>
