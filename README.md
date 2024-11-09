@@ -16,7 +16,7 @@
       <h1 align="center">
         <a href="https://github.com/rotector/rotector">
           <picture>
-            <img width="350" alt="Rotector" src="./assets/images/rotector_logo.png">
+            <img width="800" alt="Rotector" src="./assets/images/rotector_banner.png">
           </picture>
         </a>
       </h1>
@@ -46,7 +46,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/jaxron/axonet">
-        <img src="assets/images/axonet-banner.png" alt="axonet Banner" width="300">
+        <img src="assets/images/axonet_banner.png" alt="axonet Banner" width="300">
       </a>
       <p>A custom HTTP client library for Go, offering middleware options for enhanced request handling. Features include circuit breaker, retry mechanism, rate limiting, and more.</p>
       <a href="https://go.dev/">
@@ -58,7 +58,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/jaxron/roapi.go">
-        <img src="assets/images/roapi-banner.png" alt="roapi.go Banner" width="300">
+        <img src="assets/images/roapi_banner.png" alt="roapi.go Banner" width="300">
       </a>
       <p>A modular and beginner-friendly API wrapper for Roblox, built in Go. Uses axonet's features to ensure seamless platform integration and ease of use.</p>
       <a href="https://go.dev/">
@@ -72,7 +72,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/jaxron/zigache">
-        <img src="assets/images/zigache-banner.png" alt="Zigache Banner" width="300">
+        <img src="assets/images/zigache_banner.png" alt="Zigache Banner" width="300">
       </a>
       <p>Revolutionizing key-value caching with Zig by offering flexible and efficient caching strategies. Leveraging <code>comptime</code> with zero-cost abstractions for better performance.</p>
       <a href="https://ziglang.org/">
