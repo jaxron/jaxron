@@ -3,12 +3,12 @@
   🌟 <b>Tech Enthusiast</b> | 🚀 <b>Software Engineer</b> | 🎨 <b>Code Architect</b>
 </p>
 <p align="center">
-  I enjoy building efficient, scalable software with a focus on performance and clean architecture. Specializing in Go and Zig for backend development, I tackle complex problems and build innovative tools. Beyond coding, I explore new technologies, contribute to open-source, and share knowledge with the developer community.
+  As an 18-year-old developer, I enjoy building efficient, scalable software with a focus on performance and clean architecture. Specializing in Go and Zig for backend development, I tackle complex problems and build innovative tools. Beyond coding, I explore new technologies, contribute to open-source, and share knowledge with the developer community.
 </p>
 
 ---
 
-## 🔎 Rotector
+## 🛠️ Active Projects
 
 <table>
   <tr>
@@ -16,11 +16,11 @@
       <h1 align="center">
         <a href="https://github.com/rotector/rotector">
           <picture>
-            <img width="800" alt="Rotector" src="./assets/images/rotector_banner.png">
+            <img width="800" alt="Rotector" src="./assets/images/rotector_banner.gif">
           </picture>
         </a>
       </h1>
-      <p>An AI-powered application designed to assist in identifying inappropriate user accounts on Roblox. Features include AI analysis, Discord review system, multi-threaded worker system, and detailed logging capabilities.</p>
+      <p>A powerful application designed to assist in identifying inappropriate user accounts on Roblox using AI and smart algorithms. Features include smart AI analysis, robust Discord review system, multi-threaded worker system, detailed logging capabilities and more.</p>
       <a href="https://go.dev/">
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </a>
@@ -33,10 +33,6 @@
     </td>
   </tr>
 </table>
-
-|                                                                                                                           Swift AI Assisted Moderation                                                                                                                            |                                                                                                                              In-Depth User Investigation                                                                                                                              |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <p align="center"><img src="assets/images/01.gif" width="450"></p><p align="center">Review flagged accounts quickly with AI assistance. This system provides profile overviews and AI-generated violation reasons, allowing moderators to make informed decisions in seconds.</p> | <p align="center"><img src="assets/images/02.gif" width="450"></p><p align="center">The review menu allows in-depth user investigation. Moderators can easily explore a user's outfits, friends, and groups, providing a detailed view for thorough and informed decision-making.</p> |
 
 <p align="center"><i>Discover more features on the <a href="https://github.com/rotector/rotector">Rotector GitHub page</a></i></p>
 
