@@ -3,7 +3,7 @@
   🌟 <b>Tech Enthusiast</b> | 🚀 <b>Software Engineer</b> | 🎨 <b>Code Architect</b>
 </p>
 <p align="center">
-  As an 18-year-old developer, I enjoy building efficient, scalable software with a focus on performance and clean architecture. Specializing in Go and Zig for backend development, I tackle complex problems and build innovative tools. Beyond coding, I explore new technologies, contribute to open-source, and share knowledge with the developer community.
+  As an 18-year-old developer, I enjoy building efficient and scalable software, prioritizing performance and clean architecture. Specializing in Go and Zig for backend development, I tackle complex problems and create innovative tools driven by passion rather than profit. Beyond coding, I guide aspiring developers, participate in tech communities, explore new technologies, and advocate for privacy-first solutions.
 </p>
 
 ---
@@ -20,7 +20,7 @@
           </picture>
         </a>
       </h1>
-      <p>A powerful application designed to assist in identifying inappropriate user accounts on Roblox using AI and smart algorithms. Features include smart AI analysis, robust Discord review system, multi-threaded worker system, detailed logging capabilities and more.</p>
+      <p>A powerful application designed to assist in identifying inappropriate user accounts on Roblox using AI and smart algorithms. Features include smart AI analysis, robust Discord review system, multi-threaded worker system, AI moderation assistant and more.</p>
       <a href="https://go.dev/">
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </a>
@@ -44,7 +44,7 @@
       <a href="https://github.com/jaxron/axonet">
         <img src="assets/images/axonet_banner.png" alt="axonet Banner" width="300">
       </a>
-      <p>A custom HTTP client library for Go, offering middleware options for enhanced request handling. Features include circuit breaker, retry mechanism, rate limiting, and more.</p>
+      <p>A custom HTTP client library for Go, offering middleware options for enhanced request handling. Middlewares include circuit breaker, retry mechanism, rate limiting, and more.</p>
       <a href="https://go.dev/">
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </a>
