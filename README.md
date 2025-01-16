@@ -14,27 +14,27 @@
   <tr>
     <td align="center">
       <h1 align="center">
-        <a href="https://github.com/rotector/rotector">
+        <a href="https://github.com/robalyx">
           <picture>
             <img width="800" alt="Rotector" src="./assets/images/rotector_banner.gif">
           </picture>
         </a>
       </h1>
-      <p>A powerful application designed to assist in identifying inappropriate user accounts on Roblox using AI and smart algorithms. Features include smart AI analysis, robust Discord review system, multi-threaded worker system, AI moderation assistant and more.</p>
+      <p>Core member of robalyx - an OSS team creating modern technology to build a safer Roblox platform. Currently leading the development of Rotector, a powerful system that uses AI and smart algorithms to identify inappropriate user accounts on Roblox.</p>
       <a href="https://go.dev/">
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
       </a>
-      <a href="https://github.com/rotector/rotector/blob/main/LICENSE">
+      <a href="https://github.com/robalyx/rotector/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/-GPL%20v2-blue?style=flat-square" alt="GPL v2">
       </a>
-      <a href="https://github.com/rotector/rotector">
+      <a href="https://github.com/robalyx/rotector">
         <img src="https://img.shields.io/badge/-Alpha-red?style=flat-square" alt="Alpha">
       </a>
     </td>
   </tr>
 </table>
 
-<p align="center"><i>Discover more features on the <a href="https://github.com/rotector/rotector">Rotector GitHub page</a></i></p>
+<p align="center"><i>Learn more on the <a href="https://github.com/robalyx">robalyx organization page</a></i></p>
 
 ## 🔭 Active Libraries
 
