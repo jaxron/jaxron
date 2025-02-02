@@ -12,24 +12,27 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <h1 align="center">
         <a href="https://github.com/robalyx">
           <picture>
-            <img width="800" alt="Rotector" src="./assets/images/rotector_banner.gif">
+            <img width="800" alt="robalyx" src="./assets/images/robalyx_banner.gif">
           </picture>
         </a>
       </h1>
-      <p>Core member of robalyx - an OSS team creating modern technology to build a safer Roblox platform. Currently leading the development of Rotector, a powerful system that uses AI and smart algorithms to identify inappropriate user accounts on Roblox.</p>
-      <a href="https://go.dev/">
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-      </a>
-      <a href="https://github.com/robalyx/rotector/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/-GPL%20v2-blue?style=flat-square" alt="GPL v2">
-      </a>
-      <a href="https://github.com/robalyx/rotector">
-        <img src="https://img.shields.io/badge/-Alpha-red?style=flat-square" alt="Alpha">
-      </a>
+      <p align="center">Project Lead @ robalyx - an OSS team creating modern technology to build a safer Roblox platform.</p>
+      <ul>
+        <li><b><a href="https://github.com/robalyx/rotector">Rotector</a></b> - A powerful system using AI and smart algorithms to identify inappropriate user accounts on Roblox.</li>
+        <li><b><a href="https://github.com/robalyx/rotten">Rotten</a></b> - A CLI tool for checking Roblox accounts against Rotector exports, supporting individual users, groups, and friend list scanning.</li>
+      </ul>
+      <p align="center">
+        <a href="https://go.dev/">
+          <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        </a>
+        <a href="https://github.com/robalyx/rotector/blob/main/LICENSE">
+          <img src="https://img.shields.io/badge/-GPL%20v2-blue?style=flat-square" alt="GPL v2">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
