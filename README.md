@@ -3,7 +3,7 @@
   🌟 <b>Tech Enthusiast</b> | 🚀 <b>Software Engineer</b> | 🎨 <b>Code Architect</b>
 </p>
 <p align="center">
-  As an 18-year-old developer, I enjoy building efficient and scalable software, prioritizing performance and clean architecture. Specializing in Go and Zig for backend development, I tackle complex problems and create innovative tools driven by passion rather than profit. Beyond coding, I guide aspiring developers, participate in tech communities, explore new technologies, and advocate for privacy-first solutions.
+  As an 18-year-old developer, I enjoy building efficient and scalable software, prioritizing performance and clean architecture. Specializing in Go and Zig for backend development, I tackle complex problems and create innovative tools that address real-world challenges. Beyond coding, I guide aspiring developers, participate in tech communities, explore new technologies, and advocate for privacy-first solutions.
 </p>
 
 ---
@@ -24,6 +24,7 @@
       <ul>
         <li><b><a href="https://github.com/robalyx/rotector">Rotector</a></b> - A powerful system using AI and smart algorithms to identify inappropriate user accounts on Roblox.</li>
         <li><b><a href="https://github.com/robalyx/rotten">Rotten</a></b> - A CLI tool for checking Roblox accounts against Rotector exports, supporting individual users, groups, and friend list scanning.</li>
+        <li><b><a href="https://github.com/robalyx/roverse">Roverse</a></b> - A secure and efficient Cloudflare Worker proxy for Roblox API endpoints.</li>
       </ul>
       <p align="center">
         <a href="https://go.dev/">
